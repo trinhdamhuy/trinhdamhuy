@@ -6,9 +6,8 @@
 
 <br clear="both">
 
-<div align="center" style="border-radius: 50px;" >
+<div align="center" >
   <img 
-    style="border-radius: 15px;"
     height="500" 
     src="chillguy.gif" 
   />
