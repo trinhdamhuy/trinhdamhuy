@@ -6,8 +6,12 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="500" src="https://media1.tenor.com/m/Jo0PbgBIZzAAAAAd/chill-guy-my-new-character.gif"  />
+<div align="center" style="border-radius: 50px;" >
+  <img 
+    style="border-radius: 15px;"
+    height="500" 
+    src="https://media1.tenor.com/m/Jo0PbgBIZzAAAAAd/chill-guy-my-new-character.gif" 
+  />
 </div>
 
 ###
