@@ -10,7 +10,7 @@
   <img 
     style="border-radius: 15px;"
     height="500" 
-    src="https://media1.tenor.com/m/Jo0PbgBIZzAAAAAd/chill-guy-my-new-character.gif" 
+    src="chillguy.gif" 
   />
 </div>
 
