@@ -24,7 +24,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhdamhuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trinhdamhuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -47,15 +47,25 @@
 
 <br clear="both">
 
-<h2 align="center">蛇ポジトリ🐍</h2>
-
 ###
+
+<p align="center">
+  <img
+    height="50"
+    src="https://github.com/user-attachments/assets/c8a0563f-16e8-44f3-b3df-104f639c6da2" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinhdamhuy/trinhdamhuy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhdamhuy/trinhdamhuy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trinhdamhuy/trinhdamhuy/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<h2 align="center">蛇ポジトリ🐍</h2>
 
 ###
 
