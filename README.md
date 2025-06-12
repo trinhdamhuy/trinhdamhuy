@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-<h2 align="center">蛇ポジトリ🐍</h2>
+<p align="center">🐍</p>
 
 ###
 
