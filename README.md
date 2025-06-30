@@ -60,15 +60,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhdamhuy/trinhdamhuy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trinhdamhuy/trinhdamhuy/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<p align="center">🐍</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/trinhdamhuy/trinhdamhuy/output/snake.svg" alt="Snake animation" />
-
-###
