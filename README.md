@@ -24,15 +24,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhdamhuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="200" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trinhdamhuy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=trinhdamhuy&locale=en&mode=daily&theme=moltack&hide_border=true" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -44,8 +36,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 ###
 
