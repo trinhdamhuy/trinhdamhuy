@@ -24,14 +24,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trinhdamhuy&locale=en&mode=daily&theme=moltack&hide_border=true" height="200" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhdamhuy&radius=16&area=true&hide_border=true&theme=cotton-candy" height="365" alt="activity-graph graph"  />
 </div>
 
